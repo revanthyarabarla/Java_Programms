@@ -1,8 +1,7 @@
 package week_2;
 import java.util.Scanner;
 public class Pg_33 {
-    public static void main(String[] args)
-    {
+    public static void main(String[] args) {
         Scanner scan = new Scanner (System.in);
         int n = scan.nextInt(),num;
         int[] sum = new int[n+1];
