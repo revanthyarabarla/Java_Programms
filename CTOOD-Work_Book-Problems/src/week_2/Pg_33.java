@@ -19,7 +19,8 @@ public class Pg_33 {
                 num/=2;
             }
         }
-        for (int i=0;i<=n;i++) {
+        for (int i=0;i<=n;i++)
+        {
             System.out.print(sum[i]+" ");
         }
     }
