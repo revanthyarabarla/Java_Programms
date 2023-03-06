@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Pg_50 {
    int n;
     int temp = n;
-    while(temp > 4)
+    //while(temp > 4)
     {
         temp = sum_of_sq(temp);
         if(temp == 1)
